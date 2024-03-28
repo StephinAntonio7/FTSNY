@@ -1,1 +1,3 @@
-#FTSNY
+This webpage was created to inform the user of Feed The Streets NY and the ways in which they can support the non-profit organization.
+
+Mission: NYC homelessness and hunger knows no bounds. In a city of more than 8.3 million people, nearly one in every 83 New Yorkers is homeless. To address this need, Feed The Streets NY facilitates weekly hand-to-hand distribution of clothing, hygiene supplies, a hot meal and haircuts to any New Yorker in need. For anyone facing material hardship, New York City can be an unforgiving place to live. That’s why we show up, rain, shine, sleet or snow. New volunteers are welcome!

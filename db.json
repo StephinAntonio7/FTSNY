@@ -1,0 +1,44 @@
+{
+    "events":[
+        {
+            "id": "1",
+            "name": "Street Support",
+            "image": "/Users/Stephin/Desktop/Development/code/phase-1/FTSNY/src/images/FTSPic6.JPG",
+            "location": "Location: 126 Forsyth St. New York, NY",
+            "time": "When: Sundays 12pm-2pm (Volunteers: 11:45am)",
+            "services": "Hot meals, Clothing, Hygiene products, Haircuts"
+        },
+        {
+            "id": "2",
+            "name": "Skate Jam",
+            "image": "/Users/Stephin/Desktop/Development/code/phase-1/FTSNY/src/images/FTSPic8.JPG",
+            "location": "Location: Callahan-Kelly Skatepark Truxton St. Brooklyn, NY",
+            "time": "When: TBD",
+            "services": "Skateboards decks, Tee shirts, Paint, Music, Pizza"
+        },
+        {
+            "id": "3",
+            "name": "Coffee Crew",
+            "image": "/Users/Stephin/Desktop/Development/code/phase-1/FTSNY/src/images/FTSPic11.JPG",
+            "time": "When: Tuesdays 9am-11am (Volunteers: 8:45am)",
+            "location": "Location: Sara D. Roosevelt Park, New York, NY",
+            "services": "Free donuts & coffee"
+        },
+        {
+            "id": "4",
+            "name": "Back 2 School Drive",
+            "image": "/Users/Stephin/Desktop/Development/code/phase-1/FTSNY/src/images/FTSPic3.JPG",
+            "time": "When: TBD",
+            "location": "Location: 966 Rutland Rd. Brooklyn, NY",
+            "services": "Backpacks, Notebooks, Pencils/Pens, Art supplies"
+        },
+        {
+            "id": "5",
+            "name": "The Kickmas Drive",
+            "image": "/Users/Stephin/Desktop/Development/code/phase-1/FTSNY/src/images/FTSPic10.JPG", 
+            "time": "When: TBD",          
+            "location": "Location: 70 Pine St. New York, NY",
+            "services": "New & lightly used shoes"
+        }
+    ]
+}
