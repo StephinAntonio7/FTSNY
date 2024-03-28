@@ -26,8 +26,9 @@ function displayDetails(event){
    document.querySelector("#donation").addEventListener("submit", event => {
     // Prevent defaut form submission behavior
     event.preventDefault();
-    // Get the number the user wants to add to cart.
-    document.querySelector("#number").textContent = "Thank you for your Donation!"    
+    // Display the $ amount the user wants to donate with a "Thank you" response once user clicks submit
+    document.querySelector("#number").textContent = "Thank you for your Donation!"
+    // Resets the <input id="placeholder"> after user clicks submit
     event.target.reset()
 
 });
