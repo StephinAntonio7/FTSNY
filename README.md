@@ -1,5 +1,5 @@
 Overview:
-Feed The Streets NY is a website for a non-profit organization dedicated to feeding homeless people in NYC. A user-friendly website to help volunteers and people in need find weekly outreach events. Users can click on the event to get further details (time, date, location, what's being donated, volunteer hours). 
+Feed The Streets NY is a website for a non-profit organization dedicated to feeding homeless people in NYC. A user-friendly website to help volunteers and people in need find weekly outreach events. Users can click on each event to get further details: time, date, location, what's being donated, volunteer hours. 
 
 Features: 
 Side Bar Menu: View and click on the events listed on the side bar menu to see upcoming outreaches and ways to get involved. Donate Button: Enter amount you would like to contribute to the organization to increase outreach capabilities.
